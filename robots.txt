@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sablebrook.example.com/sitemap-index.xml
